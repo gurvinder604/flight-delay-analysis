@@ -10,8 +10,6 @@
 |---|---|---|
 | *Screenshot coming* | *Screenshot coming* | *Screenshot coming* |
 
-> 📸 Add your Power BI screenshots to `dashboard_screenshots/` and update this table
-
 ---
 
 ## 🔍 Project Summary
